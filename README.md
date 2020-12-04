@@ -6,7 +6,7 @@
 
 Вы можете склонировать репозиторий к себе, используя команду:
 
-```git clone https://github.com/newprolab/sberbank-spark-de-3.git```
+```git clone https://github.com/newprolab/vtb-park.git```
 
 В будущем для получения актуальной версии репозитория:
 
