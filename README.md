@@ -15,7 +15,7 @@
 Или достаточно просто зайти на эту страницу. Здесь будет удобная табличка со всеми ресурсами.
 
 ## Полезные ссылки
-- [Календарь занятий](https://calendar.google.com/calendar/embed?src=sdgu8aa2usbu8qpqk5ophdckn8%40group.calendar.google.com&ctz=Europe%2FMoscow)
+- [Календарь занятий](https://calendar.google.com/calendar/embed?src=g4c9mfo9kvalg2ec70ggvuab08%40group.calendar.google.com&ctz=Europe%2FMoscow)
 
 
 ## Лабораторные
