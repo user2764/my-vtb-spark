@@ -16,6 +16,7 @@
 
 ## Полезные ссылки
 - [Календарь занятий](https://calendar.google.com/calendar/embed?src=g4c9mfo9kvalg2ec70ggvuab08%40group.calendar.google.com&ctz=Europe%2FMoscow)
+- [Ссылка на Zoom занятий](https://us02web.zoom.us/j/9666288625?pwd=MC9QZGpJaDZZT1RMZmNwcXo0N1BmQT09)
 
 
 ## Лабораторные
